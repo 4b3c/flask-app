@@ -9,4 +9,17 @@ A reusable starter template for quickly building Flask apps.
 - Static CSS/JS directories
 - Minimal requirements.txt
 
+## Setup
+```
+python -m venv .venv
+// activate virtual environment
+pip install -r requirements.txt
+
+npm install
+npm run dev
+```
+
 ## Run
+```
+python run.py
+```
