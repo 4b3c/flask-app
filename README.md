@@ -1,6 +1,6 @@
 # Flask Starter Template
 
-A reusable starter template for quickly building Flask apps.
+A reusable starter template for me to quickly set up Flask apps... Over the years I've found myself having a cool idea and wanting to create a small website for it, but I keep doing the same steps over and over again.This template is my solution to that problem, allowing me to quickly spin up a website, and then customize it to whatever idea I have.
 
 ## Features
 - Blueprint structure
